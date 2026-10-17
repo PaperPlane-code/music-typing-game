@@ -1,0 +1,35 @@
+字间 · 第三方软件许可说明
+
+以下组件随本发布包分发，或其代码已合并进网页产物。许可原文和上游附带声明均保持原样；完整清单及原文哈希见 licenses/manifest.json。
+Node.js 和 Vite 的上游完整许可文件包含其附带的其他组件声明，其中可能列出本产品没有单独分发的组件。Vite 本身的开发服务器和构建工具不随包分发，仅声明注入网页的运行辅助代码。
+本说明仅涉及第三方软件，不授予内置歌曲、歌词或其他媒体素材的使用权，也不为本项目自身选择开源许可证。
+
+Node.js 24.22.0
+许可标识：MIT
+分发内容：bundled-node-runtime
+项目来源：https://nodejs.org/
+许可及声明原文：runtime/LICENSE-node.txt
+
+react 19.3.0
+许可标识：MIT
+分发内容：bundled-browser-code
+项目来源：https://react.dev/
+许可及声明原文：licenses/react/LICENSE
+
+react-dom 19.3.0
+许可标识：MIT
+分发内容：bundled-browser-code
+项目来源：https://react.dev/
+许可及声明原文：licenses/react-dom/LICENSE
+
+scheduler 0.28.0
+许可标识：MIT
+分发内容：bundled-browser-code
+项目来源：https://react.dev/
+许可及声明原文：licenses/scheduler/LICENSE
+
+vite 7.3.7
+许可标识：MIT
+分发内容：injected-runtime-helpers
+项目来源：https://vite.dev
+许可及声明原文：licenses/vite/LICENSE.md

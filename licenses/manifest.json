@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "components": [
+    {
+      "name": "Node.js",
+      "version": "24.22.0",
+      "license": "MIT",
+      "role": "bundled-node-runtime",
+      "source": "https://nodejs.org/",
+      "bundledNotices": true,
+      "files": [
+        {
+          "path": "runtime/LICENSE-node.txt",
+          "sha256": "ed34dd8e3f0a78dbaf00d0444ce8e285b015b765379c2e17880455f70370f8e9"
+        }
+      ]
+    },
+    {
+      "name": "react",
+      "version": "19.3.0",
+      "license": "MIT",
+      "role": "bundled-browser-code",
+      "source": "https://react.dev/",
+      "bundledNotices": false,
+      "files": [
+        {
+          "path": "licenses/react/LICENSE",
+          "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+        }
+      ]
+    },
+    {
+      "name": "react-dom",
+      "version": "19.3.0",
+      "license": "MIT",
+      "role": "bundled-browser-code",
+      "source": "https://react.dev/",
+      "bundledNotices": false,
+      "files": [
+        {
+          "path": "licenses/react-dom/LICENSE",
+          "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+        }
+      ]
+    },
+    {
+      "name": "scheduler",
+      "version": "0.28.0",
+      "license": "MIT",
+      "role": "bundled-browser-code",
+      "source": "https://react.dev/",
+      "bundledNotices": false,
+      "files": [
+        {
+          "path": "licenses/scheduler/LICENSE",
+          "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+        }
+      ]
+    },
+    {
+      "name": "vite",
+      "version": "7.3.7",
+      "license": "MIT",
+      "role": "injected-runtime-helpers",
+      "source": "https://vite.dev",
+      "bundledNotices": true,
+      "files": [
+        {
+          "path": "licenses/vite/LICENSE.md",
+          "sha256": "a77a1c089806b39ad339535bdf3677f636c91d96693e8ad7b11fe733f650ea64"
+        }
+      ]
+    }
+  ]
+}

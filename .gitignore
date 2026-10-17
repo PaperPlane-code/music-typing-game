@@ -1,0 +1,12 @@
+# Generated runtime data and local settings are not part of the published app.
+/data/
+/browser-profile/
+.env
+.env.*
+*.log
+*.pfx
+*.p12
+*.key
+Thumbs.db
+desktop.ini
+.DS_Store

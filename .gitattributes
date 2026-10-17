@@ -1,0 +1,2 @@
+# Preserve release bytes on every platform so FILES.json hashes remain valid.
+* -text

@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "version": "1.5.0",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "e7925bdc35ae7e09d86c859dd3baedf228300ae31b18c8f46ef7731f8404854c"
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.txt",
+      "sha256": "c68b3928392f6d826c6a396839020394ee8cdde04582f046de18abb94f51ae87"
+    },
+    {
+      "path": "Zijian.exe",
+      "sha256": "109d8be8ccafd7b7ee8c570d35b20180b4946e7166d7e2f06d76b4ec0c3d5fc5"
+    },
+    {
+      "path": "app/desktop/browser-main.mjs",
+      "sha256": "114279f0ae71d2c9ded922fa42f9ba127568d0a203fd7d42dd361600ea4114a2"
+    },
+    {
+      "path": "app/desktop/server.mjs",
+      "sha256": "408d66d6d16625ed27c1e4e9525f87db1a6f014f2216922666adc2293ec0b51d"
+    },
+    {
+      "path": "app/server/catalog.mjs",
+      "sha256": "e09b744ad170a5fa3d8cb7258047dde0262ca15ac0ef3eab04801df0a7fde5ec"
+    },
+    {
+      "path": "app/server/music-api.mjs",
+      "sha256": "2d6dc631ae6299956c4616a9e9641e359f2b72ab8ade48ab975b0e02ac31b2f7"
+    },
+    {
+      "path": "app/server/providers.mjs",
+      "sha256": "87eaf0e2789e485b61754c7a631a9e317a6aacc0b94066e312e43bca530b43ed"
+    },
+    {
+      "path": "app/shared/lrc.mjs",
+      "sha256": "03a8c2870ef0e8a8414bcf1f70249259c4fd9ae6f4608513e454c51c5e48c451"
+    },
+    {
+      "path": "examples/歌曲模板.json",
+      "sha256": "4f09f51679cc95e7a86ae27bcd12427b9abbf13e0de3e3e76b74e651f7e7ce02"
+    },
+    {
+      "path": "examples/歌词模板.lrc",
+      "sha256": "5f5f1490afda6b91f794170c0092d5d386dd128622f6f70a4674128e3f82de59"
+    },
+    {
+      "path": "licenses/manifest.json",
+      "sha256": "1e797996e987ce8928cc76070061671b0ce7a9ff311d3d475f9ed3c814686ea8"
+    },
+    {
+      "path": "licenses/react-dom/LICENSE",
+      "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+    },
+    {
+      "path": "licenses/react/LICENSE",
+      "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+    },
+    {
+      "path": "licenses/scheduler/LICENSE",
+      "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+    },
+    {
+      "path": "licenses/vite/LICENSE.md",
+      "sha256": "a77a1c089806b39ad339535bdf3677f636c91d96693e8ad7b11fe733f650ea64"
+    },
+    {
+      "path": "runtime/LICENSE-node.txt",
+      "sha256": "ed34dd8e3f0a78dbaf00d0444ce8e285b015b765379c2e17880455f70370f8e9"
+    },
+    {
+      "path": "runtime/node.exe",
+      "sha256": "ba93f9a70bd86fce3ebbb39ec758501458453467aa92a34a0a3602d1e3fc2b9c"
+    },
+    {
+      "path": "version.json",
+      "sha256": "c44de7b5bca69285df38b2f877d968812f7deb1fa038d46905998b9e8b374a38"
+    },
+    {
+      "path": "web/assets/index-Bjw9xXkg.js",
+      "sha256": "3a969d5885803ba55d2479e14932067bbba782b3b56e35e4ab5f220ff9648390"
+    },
+    {
+      "path": "web/assets/index-DG473SFf.css",
+      "sha256": "87c524f0190966a60241177b7b3aa2a94c4631a1cdd2b52a6f9f9a6142ba42e6"
+    },
+    {
+      "path": "web/favicon.svg",
+      "sha256": "cf72c3bcad3d424cd775e3ef5d352bf460a708ac91f6a600508fd5c077fba834"
+    },
+    {
+      "path": "web/index.html",
+      "sha256": "b904fe50a741c0cc992c85539e76c9fb698990e29fd2c3d7138b29f455c907a9"
+    },
+    {
+      "path": "使用说明.txt",
+      "sha256": "9f2513ae94456525ecd0d6f73342d4e36915ff3c99b54b0f7af94532d45aee45"
+    }
+  ]
+}

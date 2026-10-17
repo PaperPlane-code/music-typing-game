@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "title": "我的歌曲",
+  "subtitle": "我的名字",
+  "segments": [
+    { "displayText": "你好，今天", "inputText": "你好，今天", "start": 2, "end": 6 },
+    { "displayText": "慢慢写下下一句", "inputText": "慢慢写下下一句", "start": 6, "end": 10 }
+  ]
+}
